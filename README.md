@@ -1,5 +1,7 @@
 # HighTechU General
 
+[My Projects](/project.md)
+
 ## About Me!
 
 Hello! Thanks for visiting my website!
